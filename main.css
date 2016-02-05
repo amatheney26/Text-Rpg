@@ -1,0 +1,59 @@
+body {
+  background-color: black;
+  width: 100%;
+  height: 100%;
+}
+ * {
+   font-family: Imp;
+ }
+
+ #text_box {
+   height: 250px;;
+   width: 30%;
+   background-color: grey;
+   margin-top: 4%;
+   margin-left: 4%;
+   border: 4px solid #404040;
+   font-size: 20px;
+   color: white;
+   text-align: left;
+ }
+
+#stats_box {
+  height: 250px;
+  width: 15%;
+  background-color: grey;
+  margin-left: 80%;
+  margin-top: -770px;
+  border: 4px solid #404040;
+}
+
+h3 {
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+#yes_box {
+  height: 100px;
+  width: 12%;
+  background-color: grey;
+  border: 4px solid #404040;
+  margin-left: 10%;
+  margin-top: 400px;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+  cursor: pointer;
+}
+#no_box {
+  height: 100px;
+  width: 12%;
+  background-color: grey;
+  border: 4px solid #404040;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+  margin-left: 25%;
+  margin-top: -110px;
+  cursor: pointer
+}
