@@ -1,5 +1,5 @@
 explain = function() {
-  window.location.replace('htmls/explain.html');
+  window.location.replace('explain.html');
 }
 
 exit = function() {
